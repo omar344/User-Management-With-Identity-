@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>User Management with Identity - Web MVC</h1>
+    <h1>User Management with Identity - ASP.NET MVC</h1>
     <h2>Overview</h2>
     <p>User Management with Identity is a web application project built on ASP.NET MVC framework. 
         It utilizes ASP.NET Identity for user authentication, authorization, and management. 

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +11,8 @@
 
     <h2>Overview</h2>
 
-    <p>User Management with Identity is a web application project built on ASP.NET MVC framework. It utilizes ASP.NET Identity for user authentication, authorization, and management. The project includes features like user registration, login, password management, roles, and permissions.</p>
+    <p>User Management with Identity is a web application project built on ASP.NET MVC framework. It utilizes ASP.NET Identity for user authentication, authorization, and management. 
+    The project includes features like user registration, login, password management, roles, and permissions.</p>
 
     <h2>Features</h2>
 
@@ -43,22 +43,9 @@
         <li>Build and Run: Build the solution and run the application.</li>
         <li>Explore: Open your web browser and navigate to the URL where the application is running. You can now explore the user management features.</li>
     </ol>
-<!--
-    <h2>Contributing</h2>
 
-    <p>Contributions are welcome! If you want to contribute to this project, feel free to submit a pull request. Please ensure that your code follows the established coding conventions and that any new features or changes are well-documented.</p>
+    
 
-    <h2>License</h2>
-
-    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-    <h2>Support</h2>
-
-    <p>If you encounter any issues or have any questions, feel free to open an issue on the GitHub repository.</p>
-
-    <h2>Acknowledgements</h2>
-
-    <p>This project was inspired by the need for a robust user management system in web applications and built upon the foundation provided by ASP.NET MVC and Identity framework. Special thanks to the ASP.NET community for their valuable resources and support.</p>
-!-->
+    
 </body>
 </html>

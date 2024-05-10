@@ -1,0 +1,1020 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/OMAR/aspnet_wepApp1/True/SqlTable/security.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\data\\migrations\\20240509174827_addapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:data\\migrations\\20240509174827_addapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\data\\migrations\\20240509174417_renametables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:data\\migrations\\20240509174417_renametables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|d:\\web api\\day_01\\apitest\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D4B0253-BE5D-465E-AD90-B23080DEA56B}|WebApplication1.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:43:53.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnableAuthenticator.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:44:08.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAqwHcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:05:18.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:42:42.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAADgAAAAAhpmZmRkTwEUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:11:06.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:05:15.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAA/wBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:50:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:52:29.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:52:27.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:52:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:52:19.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:51:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:51:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:51:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:06:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:51:06.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Lockout.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:50:41.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:50:35.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAABYAAAAAGjMzMzPjvxQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:08:42.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAiwLIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:50:34.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:50:20.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:48:17.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:48:01.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:47:46.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:47:40.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:47:36.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TwoFactorAuthentication.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:47:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShowRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:47:05.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SetPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:46:49.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResetAuthenticator.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:46:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:36:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:46:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:46:04.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GenerateRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:45:41.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExternalLogins.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:45:23.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:43:13.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:42:38.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:07:30.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:11:04.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:05:49.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:05:51.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:08:37.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "security.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/OMAR/aspnet_wepApp1/True/SqlTable/security.Users.sql",
+              "ToolTip": "security.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-09T20:06:45.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:08:18.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:08:16.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240509174827_AddApplicationUser.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\20240509174827_AddApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240509174827_AddApplicationUser.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\20240509174827_AddApplicationUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240509174827_AddApplicationUser.cs",
+              "ViewState": "AQIAABIAAAAA+f////8PwCEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:48:27.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAC4AAAA0MzMzMzMrwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T17:50:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:45:09.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC8AAAAAmJmZmZklwDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:43:41.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T17:36:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240509174417_RenameTables.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\20240509174417_RenameTables.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240509174417_RenameTables.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\20240509174417_RenameTables.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240509174417_RenameTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:44:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAABgZWZmZmY0wAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:37:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:42:22.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:37:11.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:37:07.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Web API\\Day_01\\APITest\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-09T17:33:19.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

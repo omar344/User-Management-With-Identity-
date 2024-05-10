@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # User_Management_With_Identity
+=======
+>>>>>>> b6337786e277b311c68ea141bdc507fc81dfeced
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,8 +15,12 @@
 
     <h2>Overview</h2>
 
+<<<<<<< HEAD
     <p>User Management with Identity is a web application project built on ASP.NET MVC framework. 
     It utilizes ASP.NET Identity for user authentication, authorization, and management. 
+=======
+    <p>User Management with Identity is a web application project built on ASP.NET MVC framework. It utilizes ASP.NET Identity for user authentication, authorization, and management. 
+>>>>>>> b6337786e277b311c68ea141bdc507fc81dfeced
     The project includes features like user registration, login, password management, roles, and permissions.</p>
 
     <h2>Features</h2>
@@ -43,8 +50,12 @@
         <li>Set Connection String: Update the connection string in Web.config file to point to your database.</li>
         <li>Database Migration: Run Entity Framework migrations to create the necessary database schema.</li>
         <li>Build and Run: Build the solution and run the application.</li>
+<<<<<<< HEAD
         <li>Explore: Open your web browser and navigate to the URL where the application is running.
         You can now explore the user management features.</li>
+=======
+        <li>Explore: Open your web browser and navigate to the URL where the application is running. You can now explore the user management features.</li>
+>>>>>>> b6337786e277b311c68ea141bdc507fc81dfeced
     </ol>
 
     
